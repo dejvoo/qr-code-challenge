@@ -3,7 +3,6 @@ body {
     font-family: 'Outfit', sans-serif;
     font-size: 15px;
     line-height: 1.5;
-    padding: 1.5rem;
 }
 
 .container {
@@ -25,7 +24,6 @@ body {
     width: 100%;
     background-color: white;
     padding: 16px 16px 50px 16px;
-    gap: 20px;
     border-radius: 15px;
     box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);
     text-align: center;
